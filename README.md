@@ -1,4 +1,4 @@
-# Data Analysis Samples
+# Shawanda's Data Analysis Samples
 
 Here's a list of my data analysis work:
 
