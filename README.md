@@ -3,6 +3,7 @@
 Here's a list of my data analysis work:
 
 Retail and Manufacturing Data Analysis
+<br/>
 https://github.com/wandaasbury/Retail-and-Manufacturng-Data-Analysis
 https://docs.google.com/presentation/d/1QIakSqmyEUM7aWfoLCh6XCflI9VlEl4nn4vRldVlVZo/edit?usp=sharing
 
