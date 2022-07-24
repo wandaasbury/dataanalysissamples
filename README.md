@@ -2,6 +2,10 @@
 
 Here's a list of my data analysis work:
 
+Movie Correlation Data Analysis 
+<br/>
+https://github.com/wandaasbury/moviecorrelationanalysis/blob/main/Movie_Correlation_Data_Analysis.ipynb
+
 Retail and Manufacturing Data Analysis
 <br/>
 https://github.com/wandaasbury/Retail-and-Manufacturng-Data-Analysis
@@ -11,8 +15,9 @@ Ecommerce Dashboard
 <br/>
 https://github.com/wandaasbury/ecommercedashboard
 
-Call Center Metrics
+Call Center Metrics Dashboard
 <br/>
 https://github.com/wandaasbury/callecentermetrics
+
 
 
